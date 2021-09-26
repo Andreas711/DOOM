@@ -76,3 +76,7 @@ Have fun.
 
 John Carmack
 12-23-97
+
+***********************************************
+Fixing Common Issues in the Master GitHub Code
+***********************************************
